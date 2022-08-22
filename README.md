@@ -154,4 +154,5 @@ https://congcong0806.github.io/2018/09/03/App
 
 Telegram 私聊:https://t.me/congcongx_bot
 Telegram 社群:https://t.me/tgcnx
-Telegram 频道:https://t.me/tgcnz
+电报频道：https: //t.me/tgcnz
+复活甲恢复健康
