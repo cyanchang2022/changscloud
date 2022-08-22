@@ -1,21 +1,37 @@
-https://congcong0806.github.io/2018/04/20/SS/
+SS/SSR/V2Ray/Trojan/Clash 客户端软件下载 https://congcong0806.github.io/2018/04/20/SS/
+
 介绍
-SS = Shadowsocks
+
+SS = Shadowsocks https://zh.wikipedia.org/wiki/Shadowsocks
+
 SSR = ShadowsocksR
+
 SS ≠ SOCKS5
+
 SS ≠ VPN
+
 V2Ray
+
 VLESS
-Trojan
+
+木马
+
 Clash
+
 Shadowsocks的前世今生
+
 优秀的 VPS 服务商
+
 Vultr 点击此链接注册可获得$100美元: https://www.vultr.com
 
 SS/SSR/V2Ray/Trojan 节点服务(机场)
+
 找机场
+
 买节点
+
 Client
+
 客户端
 推荐客户端
 iOS: Surge 5, Quantumult X, Shadowrocket, Loon, Stash
